@@ -2,5 +2,8 @@
 
 
 
-<video src="https://github.com/MONO-1223/AURAK-CENG315-Microprocessors/blob/main/Demos/EnglishToMorse.mp4" width="300" />
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
+<a href="https://youtu.be/vt5fpE0bzSY">
+  <img src="https://i.stack.imgur.com/Vp2cE.png" alt="Watch the video" width="500">
+</a>
