@@ -1,4 +1,4 @@
-# AURAK-CENG315-Microprocessors
+# Micro-Morse
 
 <a href="https://youtu.be/FeWbVRlM3Dc">
   <img src="Assets/MorseToEnglish.jpg" alt="Watch the video" width="1000">
